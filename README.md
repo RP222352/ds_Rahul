@@ -84,11 +84,11 @@ You can directly view and run the notebook in Google Colab, and access the final
 5. Run all cells step-by-step.
 
 ## 📊 Outputs
-1. Visualization	Description
-2. buy_vs_sell.png	Buy vs Sell trade count
-3. daily_volume.png	Daily total trading volume
-4. avg_pnl_by_sentiment.png	Average profit per trade by sentiment
-5. pnl_by_sentiment.png	Total profit by sentiment
+1. Visualization	-- Description
+2. buy_vs_sell.png	-- Buy vs Sell trade count
+3. daily_volume.png	-- Daily total trading volume
+4. avg_pnl_by_sentiment.png	-- Average profit per trade by sentiment
+5. pnl_by_sentiment.png	-- Total profit by sentiment
 
 All generated visualizations will be saved automatically in the outputs/ folder.
 
