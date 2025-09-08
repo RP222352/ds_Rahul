@@ -69,8 +69,8 @@ You can directly view and run the notebook in Google Colab, and access the final
 
 | File                | Link |
 |--------------------|------|
-| `notebook_1.ipynb` | [Open in Colab](https://drive.google.com/file/d/1AvRzWaIQzD4ADqp49EzGnCzwFhS_Inqs/view?usp=drive_link) |
-| `ds_report.pdf`    | [View Report](https://drive.google.com/file/d/1bt6Dqz5esFtCxFGqCRzScCNxGjssd_CM/view?usp=drive_link) |
+| `notebook_1.ipynb` | [Open in Colab](https://colab.research.google.com/drive/1ffweWvTodeAPr5hdiSMlRIZC8RDEEwmQ?usp=drive_link) |
+| `ds_report.pdf`    | [View Report](https://drive.google.com/file/d/1rSrmrUBXrm9Yz7LKS4okZMMi4QDBpHM0/view?usp=drive_link) |
 
 ---
 
